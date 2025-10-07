@@ -7,7 +7,7 @@
           let sq3 = document.getElementById("square3");
           for (let box of boxes) {
             if (box.id != this.id) {
-              box.style.backgroundColor = "#6a5acd"; /*slateblue*/
+              box.style.backgroundColor = "#6F4E37"; /*slateblue*/
             }
           }
         });
